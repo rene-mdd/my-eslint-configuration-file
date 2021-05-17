@@ -1,4 +1,4 @@
-
+// TypeScript eslint configuration file
 {
     "plugins": ["prettier", "@typescript-eslint"],
     "extends": ["airbnb-typescript", "react-app", "prettier"],
